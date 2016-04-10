@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "5216578ef5dd371675724bb6dac23df5"
+build_time: [513627111, 983812000]
+inputs:
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/CustomFont/CustomFont/ViewController.swift": [513627107, 0]
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/CustomFont/CustomFont/AppDelegate.swift": [513627107, 0]
