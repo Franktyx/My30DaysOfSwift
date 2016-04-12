@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "9bc7bf230e57ad4c291026a10aa191b9"
+build_time: [513711410, 692484000]
+inputs:
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/ViewController.swift": [513711407, 0]
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/AppDelegate.swift": [513711407, 0]

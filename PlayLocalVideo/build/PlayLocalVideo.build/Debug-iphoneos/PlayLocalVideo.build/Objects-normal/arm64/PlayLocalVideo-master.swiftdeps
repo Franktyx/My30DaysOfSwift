@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "c66e767f723c0a7585c07181573b1067"
+build_time: [513759887, 429076000]
+inputs:
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/ViewController.swift": [513759887, 0]
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/Video.swift": [513712721, 0]
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/MyTableViewCell.swift": [513759694, 0]
+  "/Users/yuxiangtang1/Documents/30DaysOfSwift/PlayLocalVideo/PlayLocalVideo/AppDelegate.swift": [513711407, 0]
